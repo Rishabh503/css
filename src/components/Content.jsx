@@ -14,7 +14,7 @@ const Content = () => {
         </div>
         {/* right  */}
         <div className='h-full sm:w-[50%] '>
-          <img className='h-full w-full sm:p-12 -mt-[25vw] shadow-lg sm:-mt-0 rounded-full' src="image.png" alt="" />
+          <img className='sm:h-full w-full sm:p-12 p-5 -mt-[130vw] shadow-lg sm:-mt-0 rounded-full' src="image.png" alt="" />
         </div>
 
     </div>
